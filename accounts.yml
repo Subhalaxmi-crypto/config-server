@@ -1,0 +1,15 @@
+
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "welcome subhuuuuu"
+
+  contactDetails:
+    name: "subhalaxmi"
+    email: "subha@gmail.com"
+
+  oncallSupport:
+    - 12345
+    - 678910

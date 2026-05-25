@@ -1,0 +1,11 @@
+
+build:
+  version: "2.0"
+accounts:
+  message : "Qa welcome subhuuuuu"
+  contactDetails:
+    name: "subhalaxmi"
+    email: "subha@gmail.com"
+  oncallSupport :
+    -12345
+    -678910
